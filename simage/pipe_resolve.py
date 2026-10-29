@@ -1,1 +1,0 @@
-// Contents moved from pipe_resolve.py
